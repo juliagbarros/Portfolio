@@ -1,0 +1,47 @@
+body {
+    background-color:lavender;
+}
+
+#topo{
+    border-bottom: 2px solid;
+    border-color:indigo;
+    color: indigo;
+}
+
+#conteudo{
+   padding-left: 50px;
+   padding-right: 50px;
+   color: indigo;
+}
+
+#imagem{
+      padding-left: 50px;
+}
+
+.listas{
+    padding-left: 50px;
+    color: indigo;
+}
+
+#tabela{
+    padding-left: 50px;
+    padding-right: 50px;
+    color: indigo;
+}
+
+#formulario{
+     padding-left: 50px;
+     padding-right: 50px;
+     color: indigo;
+
+}
+
+button{
+   background-color: indigo;
+   color:white
+}
+
+#obrigada{
+    padding:200px;
+   color: indigo;
+}
